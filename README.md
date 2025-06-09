@@ -150,13 +150,3 @@ Average Wait time (in mins) = AVERAGE('Hospital ER'[patient_waittime])
 
 ---
 
-## 🙌 Acknowledgments
-
-Thanks to **Columbia Asia Hospitals** for the real-world problem and the opportunity to deliver impact through data!
-
----
-
-*Want to see the dashboards in action?*
-**[Download the Power BI file](Dashboard.pbix)** or check the screenshots above!
-
----
