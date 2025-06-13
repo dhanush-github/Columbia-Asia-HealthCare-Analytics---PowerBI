@@ -1,11 +1,5 @@
 ---
 
-## 🚀 Project Overview
-
-**Columbia Asia Hospitals Analysis** is a comprehensive healthcare data analytics project aimed at delivering actionable insights for hospital management. Using Power BI, this project evaluates patient demographics, satisfaction, departmental performance, and helps strategize for better revenue, staffing, and patient service.
-
----
-
 ## 📝 Objectives
 
 * 📈 Assess the hospital's **revenue generation**
