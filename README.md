@@ -1,14 +1,5 @@
 ---
 
-## 📝 Objectives
-
-* 📈 Assess the hospital's **revenue generation**
-* 🏥 Recommend **departments for new hires**
-* 💸 Suggest **patient discount strategies**
-* 📊 Uncover patient satisfaction and operational trends
-
----
-
 ## 🛠️ Tools & Technologies
 
 * **Power BI** (for dashboards and data modeling)
